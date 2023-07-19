@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, I'm Antal 👋
 
-<!--
-**ntlf/ntlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with an extensive background in building high-quality, scalable applications using JavaScript, Node.js, React, and many more technologies. I am passionate about solving complex problems and delivering solutions that provide magical user experiences.
 
-Here are some ideas to get you started:
+### 👨‍💻 My expertise includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack web development
+- API design & development
+- Web performance optimizations
+
+### 🛠️ Tech stack:
+
+- JavaScript | TypeScript | Rust
+- Node.js | React | Next.js
+- PostgreSQL | MongoDB | SQLite
+- WebSockets | WebAssembly | GraphQL
+
+### 🌐 Let's connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/antalfarkas/)
+- 📧 [Email](mailto:farkasantal.hun@gmail.com)
